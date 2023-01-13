@@ -24,9 +24,9 @@ _ [React-Toastify] (https://www.npmjs.com/package/react-toastify) - React Toasti
 ![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/categorySalud.jpg)
 ![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/categoryIdiomas.jpg)
 ![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/categoryComputacion.jpg)
-![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/seleccionar.jpg)
+![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/Seleccionar.jpg)
 ![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/finalizarCompra.jpg)
 ![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/comprobacionEmail.jpg)
 ![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/ordenCompra.jpg)
-![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/Toast.jpg)
+![alt text](https://github.com/mgznxx/Final-React-Coderhouse/blob/main/docs/toast.jpg)
 
